@@ -1,2 +1,22 @@
-Read Me
-This is a first test.
+//--- License ---
+Code belongs to PxStrat Ltd and the author, Adrien Gallet, all rights reserved.
+Replication and modification of code not permitted without authorisation.
+
+//--- Purpose ---
+This repository show-cases my work done in MQL5 for the Metatrader 5 (MT5) software.
+Don't hesitate to reach out if you have any questions!
+
+//--- Programming Language Overview ---
+The MQL5 programming language is identical to C++ (compiled, OOP capabilities, multi-core processing, etc.).
+However, it features additional functions to interact with MT5 (event and trading functions, etc.).
+Therefore, MQL5 is a C++ derived programming language with an in-built custom library for trading operations.
+
+//--- Content ---
+Within this repository, one can find further repositories which are normally found in the default "MQL5" directory of MT5.
+- Experts: contains algorithms which can be deployed to carry out trading strategies.
+- Files: contains support files and acts as the saving folder of all MQL5 programs.
+- Include: contains source code for default and custom-made libraries.
+- Indicators: contains source code for calculation/evaluation algorithms.
+- Scripts: contains algorithms for one-time use executions.
+
+Feel free to browse all content which can be found here!
