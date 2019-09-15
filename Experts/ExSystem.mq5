@@ -6,7 +6,7 @@
 
 #property copyright "Copyright 2019, PxStrat"
 #property link      "https://www.pxstrat.co.uk "
-#property version   "1.00"
+#property version   "2.00"
 
 //Include files
 #include <Default/Trade/Trade.mqh>
